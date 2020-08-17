@@ -12,3 +12,4 @@
 7. 'git add <filename>' || 'git add .'
 8. git commit -m "commit message here"
 9. git push
+10. enjoy your repo
